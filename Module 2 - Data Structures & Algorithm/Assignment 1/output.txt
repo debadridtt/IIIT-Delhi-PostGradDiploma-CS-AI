@@ -1,0 +1,43 @@
+
+Adding playlist to the Music Player 
+
+Playing all songs in the playlist : Songs: 
+
+{'song_id': '10', 'song_name': 'Temper Of Yesterday', 'song_length': '01:33:00'}
+{'song_id': '9', 'song_name': 'Blissful And Beauty', 'song_length': '02:36:00'}
+{'song_id': '8', 'song_name': 'Change For The Last Time', 'song_length': '02:48:00'}
+{'song_id': '7', 'song_name': 'Days For An Angel', 'song_length': '04:42:00'}
+{'song_id': '6', 'song_name': 'I Think I Will Drop That Bass', 'song_length': '01:13:00'}
+{'song_id': '5', 'song_name': 'Whisper Bass', 'song_length': '02:46:00'}
+{'song_id': '4', 'song_name': 'Old And Secrets', 'song_length': '02:45:00'}
+{'song_id': '3', 'song_name': 'Finding His Sunshine', 'song_length': '04:12:00'}
+{'song_id': '2', 'song_name': 'Song Of Anything', 'song_length': '01:23:00'}
+{'song_id': '1', 'song_name': 'A Day For A Sunrise', 'song_length': '02:56:00'}
+
+Deleting the Song with name : Old And Secrets 
+
+{'song_id': '10', 'song_name': 'Temper Of Yesterday', 'song_length': '01:33:00'}
+{'song_id': '9', 'song_name': 'Blissful And Beauty', 'song_length': '02:36:00'}
+{'song_id': '8', 'song_name': 'Change For The Last Time', 'song_length': '02:48:00'}
+{'song_id': '7', 'song_name': 'Days For An Angel', 'song_length': '04:42:00'}
+{'song_id': '6', 'song_name': 'I Think I Will Drop That Bass', 'song_length': '01:13:00'}
+{'song_id': '5', 'song_name': 'Whisper Bass', 'song_length': '02:46:00'}
+{'song_id': '3', 'song_name': 'Finding His Sunshine', 'song_length': '04:12:00'}
+{'song_id': '2', 'song_name': 'Song Of Anything', 'song_length': '01:23:00'}
+{'song_id': '1', 'song_name': 'A Day For A Sunrise', 'song_length': '02:56:00'}
+
+Playing all songs after sorting based on song names: 
+
+{'song_id': '1', 'song_name': 'A Day For A Sunrise', 'song_length': '02:56:00'}
+{'song_id': '9', 'song_name': 'Blissful And Beauty', 'song_length': '02:36:00'}
+{'song_id': '8', 'song_name': 'Change For The Last Time', 'song_length': '02:48:00'}
+{'song_id': '7', 'song_name': 'Days For An Angel', 'song_length': '04:42:00'}
+{'song_id': '3', 'song_name': 'Finding His Sunshine', 'song_length': '04:12:00'}
+{'song_id': '6', 'song_name': 'I Think I Will Drop That Bass', 'song_length': '01:13:00'}
+{'song_id': '2', 'song_name': 'Song Of Anything', 'song_length': '01:23:00'}
+{'song_id': '10', 'song_name': 'Temper Of Yesterday', 'song_length': '01:33:00'}
+{'song_id': '5', 'song_name': 'Whisper Bass', 'song_length': '02:46:00'}
+
+Playing shuffled song 
+
+{'song_id': '1', 'song_name': 'A Day For A Sunrise', 'song_length': '02:56:00'}

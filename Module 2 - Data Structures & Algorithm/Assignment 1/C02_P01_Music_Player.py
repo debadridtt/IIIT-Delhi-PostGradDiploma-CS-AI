@@ -150,14 +150,27 @@ class LinkedList:
     	# Please understand that the sorting should happen based on the song_name. 
     	# You can use the sortted method that is available inbuilt. sorted() function
     	# Once the list is updated return result to the function from where ot was called. 
-        temp = self.head_node
-
-        if(temp == None):
-            return
-
-        songs = sorted(temp.song.song_name)
-
-        return songs
+        sample_node = ListNode(None)
+        sample_node.next = self.head_node
+        
+        x = True
+        while x: # Repeat until the inner loop finds nothing to swap
+            x = False
+            node = sample_node
+            # keep comparing the pair that follows after(!) `node`
+            while node.next and node.next.next:
+                first = node.next
+                second = first.next
+                if first.song.song_name > second.song.song_name:
+                    # A swap needs to set two(!) next attributes
+                    node.next = second
+                    first.next = second.next
+                    second.next = first
+                    x = True  # Indicate that the outer loop needs another iteration
+                node = node.next
+        
+        # Make sure the head node references the right node after sorting
+        self.head_node = sample_node.next
 
     
     def shuffle_song(self):
@@ -166,8 +179,15 @@ class LinkedList:
     	# You need to use a random library and use it to randomly pick a song that can be played. 
     	# please understand that here we are looking for just the song name
     	# Linked list should not get updated on this case. 
+        import random
 
-        pass
+        self.songs = []
+        while self.head_node:
+            self.songs.append(self.head_node.song)
+            self.head_node = self.head_node.next
+        
+        x = int(random.random() * len(self.songs))
+        return self.songs[x]
   
 
 

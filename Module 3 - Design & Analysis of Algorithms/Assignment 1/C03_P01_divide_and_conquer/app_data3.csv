@@ -1,0 +1,16 @@
+Sr No,Node ID,Type,Master Node ID
+1,1001,Master,1001
+2,1002,Master,1002
+3,1003,Master,1003
+4,1004,Master,1004
+5,1005,Master,1005
+6,1006,Sensor,1003
+7,1007,Sensor,1003
+8,1008,Sensor,1002
+9,1009,Sensor,1003
+10,1010,Sensor,1001
+11,1011,Sensor,1003
+12,1012,Sensor,1001
+13,1013,Sensor,1003
+14,1014,Sensor,1002
+15,1015,Sensor,1003

@@ -1,0 +1,12 @@
+If there is only one element then:
+
+O(1)
+
+if more than 1 then
+
+O(n)
+
+because there is only one for loop which iterates from beginning to end of list
+
+
+The sample output does not match with the input data that has been provided. Mathematically the calculations for partial overloading gives us no nodes.

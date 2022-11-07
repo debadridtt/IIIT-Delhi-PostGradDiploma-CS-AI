@@ -1,0 +1,56 @@
+Propagator No : 1001
+------------Propagator Information-----------------
+no : 1001 max_power: 100 power_remaining: 0
+------------Connected Houses Information-----------------
+house_no: 1006 power_required: 20
+house_no: 1007 power_required: 20
+house_no: 1008 power_required: 20
+house_no: 1009 power_required: 20
+house_no: 1010 power_required: 20
+
+
+Propagator No : 1002
+------------Propagator Information-----------------
+no : 1002 max_power: 89 power_remaining: 9
+------------Connected Houses Information-----------------
+house_no: 1011 power_required: 20
+house_no: 1012 power_required: 20
+house_no: 1013 power_required: 20
+house_no: 1014 power_required: 20
+
+
+Propagator No : 1003
+------------Propagator Information-----------------
+no : 1003 max_power: 120 power_remaining: 20
+------------Connected Houses Information-----------------
+house_no: 1016 power_required: 20
+house_no: 1017 power_required: 20
+house_no: 1018 power_required: 20
+house_no: 1019 power_required: 20
+house_no: 1020 power_required: 20
+
+
+Propagator No : 1004
+------------Propagator Information-----------------
+no : 1004 max_power: 50 power_remaining: 10
+------------Connected Houses Information-----------------
+house_no: 1021 power_required: 20
+house_no: 1022 power_required: 20
+
+
+Propagator No : 1005
+------------Propagator Information-----------------
+no : 1005 max_power: 100 power_remaining: 0
+------------Connected Houses Information-----------------
+house_no: 1026 power_required: 20
+house_no: 1027 power_required: 20
+house_no: 1028 power_required: 20
+house_no: 1029 power_required: 20
+house_no: 1030 power_required: 20
+
+
+----Removing House 1014 from Propagator 1002----
+House 1014 is successfully removed from Propagator 1002
+
+----Removing House 1024 from Propagator 1003----
+House 1024 is not connected with Propagator 1003

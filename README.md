@@ -2,7 +2,7 @@
 
 I completed the Post Graduate Diploma in the field of Computer Science and Artifical Intelligence. 
 
-Detailed Curriculum: [IIIT-Delhi+PGDCSAI+Detailed+Curriculum+%281%29.pdf](https://github.com/debadridtt/IIIT-Delhi-PostGradDiploma-CS-AI/files/10758808/IIIT-Delhi%2BPGDCSAI%2BDetailed%2BCurriculum%2B.281.29.pdf)
+Detailed Curriculum: [IIIT Delhi Course Curriculum.pdf](https://github.com/debadridtt/IIIT-Delhi-PostGradDiploma-CS-AI/files/10758868/IIIT.Delhi.Course.Curriculum.pdf)
 
 The course consisted of the following modules:
 

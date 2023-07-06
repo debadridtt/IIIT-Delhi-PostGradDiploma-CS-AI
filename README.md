@@ -2,6 +2,8 @@
 
 I completed the Post Graduate Diploma in the field of Computer Science and Artifical Intelligence. 
 
+![IMG_20230707_004608](https://github.com/debadridtt/Optimizing-Household-Electricity-through-Machine-Learning/assets/24243687/40743c5f-b2c4-4302-9ebf-f9253d9fb761)
+
 Detailed Curriculum: [IIIT Delhi Course Curriculum.pdf](https://github.com/debadridtt/IIIT-Delhi-PostGradDiploma-CS-AI/files/10758868/IIIT.Delhi.Course.Curriculum.pdf)
 
 The course consisted of the following modules:
